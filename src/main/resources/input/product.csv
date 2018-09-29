@@ -1,0 +1,5 @@
+product_id,product_name,product_description,product_status,product_category,price,product_hash
+1000,Hugo Boss XY,Hugo Xy Men 100 ml,AVAILABLE,"fragrance,perfume",10.35,XY123
+1001,Hugo Men Red,Hugo Men Red 150 ml,ONLY_FEW_LEFT,"fragrance,perfume",12.99,XY456
+2000,Cherokee Polo T Shirt,Cherokee Medium Blue Polo T Shirt,AVAILABLE,"T-shirts,V-Neck,Cotton,Medium",50.00,XY789
+2001,Ruggers Smart,Ruggers Smart White Small Polo T Shirt,ONLY_FEW_LEFT,"T-shirts,Round-Neck,Woolean,Small",9.99,XY987
